@@ -1,1 +1,6 @@
-Memes.
+git branch <new_branch>
+git checkout <new_branch>
+git branch -a #check that we are on new branch
+
+git add new_file.txt
+git status
