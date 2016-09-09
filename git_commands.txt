@@ -14,3 +14,5 @@ git mv <original_name> <new_name> #rename files
 git rm <file_name> #delete file
 
 nano .gitignore *~
+
+git log #shows all commits
