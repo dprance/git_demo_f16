@@ -5,6 +5,7 @@ git branch -a #check that we are on new branch
 git add new_file.txt
 git status #list new files or changes to project
 
+git pull
 git push #push new branch to server
 git config --global user.name 'your username'
 git config --global user.email
